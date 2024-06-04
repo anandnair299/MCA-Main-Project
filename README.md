@@ -3,9 +3,13 @@
 Automated Pay And Park Syatem Using Computer Vision
 
 Technologies used: 
+
 OpenCV
+
 Tesseract OCR
+
 React.js
+
 Django
 
 The Project aims at utilizing Computer Vision with OpenCV for Vehicle License Plate Detection and Tesseract OCR for reading the characters on the license plate.
